@@ -1,5 +1,3 @@
-<div align="center">
-
 # Course-node
 
 ## Primera clase
