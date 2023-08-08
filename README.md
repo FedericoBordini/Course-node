@@ -1,6 +1,9 @@
 # Course-node
+<div align="center">
 
 <img alt="Curso de Node.js desde cero y práctico" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="500">
+
+</div>
 
 ## Primera clase
 - 01: [commonJS](https://github.com/FedericoBordini/Course-node/tree/main/Primera-clase/cjs)
