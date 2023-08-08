@@ -1,7 +1,5 @@
 # Course-node
 
-<div align="center">
-
 <img alt="Curso de Node.js desde cero y práctico" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="500">
 
 ## Primera clase
