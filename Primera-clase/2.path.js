@@ -1,6 +1,5 @@
 const path = require('node:path')
 
-
 /* Este esta prohibido
     `./content/subfolder/text.txt` // ❌
 */

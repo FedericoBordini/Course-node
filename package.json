@@ -1,0 +1,35 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Siguiendo el curso de node de Midudev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoBordini/Course-node.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "Federico",
+    "Bordini"
+  ],
+  "author": "Federico Bordini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FedericoBordini/Course-node/issues"
+  },
+  "homepage": "https://github.com/FedericoBordini/Course-node#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}

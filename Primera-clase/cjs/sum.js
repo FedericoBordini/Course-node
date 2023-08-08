@@ -1,5 +1,5 @@
-function sum(a, b){
-    return a + b
+function sum (a, b) {
+  return a + b
 }
-//commonJS Module exports
+// commonJS Module exports
 module.exports = sum
